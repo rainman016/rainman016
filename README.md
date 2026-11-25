@@ -1,9 +1,9 @@
 <img src="assets/cover-v2.png" alt="Rainman — AI 产品与工程。银色雨线汇聚成字母 R，关注模型、Agent、Harness 与人机体验。" width="100%">
 
 
-我是 Rainman。从具体问题出发，连接产品判断、界面设计与工程实现。这里收录我的独立产品、AI 协作实践，以及维护的中文创作资源。
+我是 Rainman。从具体问题出发，连接产品判断、界面设计与工程实现。这里收录我的独立产品与数据工具、AI 协作实践，以及维护的中文创作资源。
 
-## 产品工具
+## 产品与数据工具
 
 <table width="100%">
 <tbody>
@@ -33,6 +33,16 @@
 <p><sub>Python · 本地语音模型 · Windows</sub></p>
 <p><sub>目前提供源码安装，首次使用需联网下载模型。</sub></p>
 <p><a href="https://github.com/rainman016/tingji#readme"><strong>查看项目与安装说明 →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>贴吧采集工具 · Tieba Collector</h3>
+<p><strong>把分散脚本整理成可配置、可恢复的采集流程。</strong></p>
+<p>将贴吧列表、帖子与楼中楼、可见用户资料的采集整合为统一命令行。按贴吧和时间范围配置任务，支持 Excel 导入、MySQL 去重入库，以及中断后重跑。</p>
+<p><sub>Python · Selenium · MySQL</sub></p>
+<p><sub>源码整理版 · 已完成离线回归，真实采集仍需按环境验证。</sub></p>
+<p><a href="https://github.com/rainman016/tieba-collector#readme"><strong>查看项目与使用说明 →</strong></a></p>
 </td>
 </tr>
 </tbody>
