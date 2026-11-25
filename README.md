@@ -1,6 +1,5 @@
 <img src="assets/cover-v2.png" alt="Rainman — AI 产品与工程。银色雨线汇聚成字母 R，关注模型、Agent、Harness 与人机体验。" width="100%">
 
-**我做 AI 工具，也关心它们如何被使用。**
 
 我是 Rainman。从具体问题出发，连接产品判断、界面设计与工程实现。这里收录我的独立产品、AI 协作实践，以及维护的中文创作资源。
 
